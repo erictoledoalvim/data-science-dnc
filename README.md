@@ -1,2 +1,2 @@
-# data-science-dnc
-Repositório dos arquivos gerados no curso de data science da dnc.
+# DNC - Python
+Repositório dos arquivos gerados nos cursos de python para data science na dnc.
